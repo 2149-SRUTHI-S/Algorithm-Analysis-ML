@@ -2,7 +2,7 @@
 
 Analysis of ML Algorithms for choosing the best algorithm for disease prediction and drug recommendation.
 
-Algorithms a Accuracy:
+Algorithms  Accuracy:
 
 1. Logistic Regression is: 85.25 %
 2. Naive Bayes is: 85.25 %
